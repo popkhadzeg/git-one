@@ -1,4 +1,4 @@
-Rainbow colors:
+Rainbow and the unicorn colors:
 
 green
 blue
