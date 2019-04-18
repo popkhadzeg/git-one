@@ -6,5 +6,6 @@ black
 blue
 orange
 pony
+indigo
 
 This is my colors
