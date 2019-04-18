@@ -1,8 +1,8 @@
-Rainbow colors
+Rainbow colors:
 
-green
-blue
-black
-blue 
+- green
+- blue
+- black
+- blue 
 
 This is my colors
