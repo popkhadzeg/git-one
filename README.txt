@@ -5,5 +5,6 @@ blue
 black
 blue
 orange
+indigo
 
 This is my colors
